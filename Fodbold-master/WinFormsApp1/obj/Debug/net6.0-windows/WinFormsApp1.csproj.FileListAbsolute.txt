@@ -1,0 +1,14 @@
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache

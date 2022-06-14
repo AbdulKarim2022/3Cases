@@ -1,0 +1,11 @@
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.dll
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.AssemblyReference.cache
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.CoreCompileInputs.cache
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.dll
+C:\Users\moual\source\repos\Fodbold\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\OpgaveBibliotek\bin\Debug\OpgaveBibliotek.pdb
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.csproj.CoreCompileInputs.cache
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.dll
+C:\Users\moual\Downloads\Fodbold-master\Fodbold-master\OpgaveBibliotek\obj\Debug\OpgaveBibliotek.pdb
